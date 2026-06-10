@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.hydenn11</groupId>
   <artifactId>deploy1</artifactId>
-  <version>0.1.1</version>
+  <version>0.1.6</version>
 
 <dependencies>
   <dependency>
